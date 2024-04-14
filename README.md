@@ -49,6 +49,8 @@ Run button hole above jack connector
 
 ![upper_inside](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/upper_inside.jpg?raw=true)
 
+Little issue with the GPIO border, was to tight. fixed.
+
 ![rpi3b](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/rpi3b.jpg?raw=true)
 
 ![rpi3b_heatsink](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/rpi3b_heatsink.jpg?raw=true)
