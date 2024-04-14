@@ -27,6 +27,18 @@ Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.
 1mm hole above jack connector is designed to fit a 6x6mm push button. This button can be used to wake the Raspberry PI.
 
 ## Photos
+
+Version 1.0 without clearance for SD card removal
+
+Printing settings:
+* 3D printer: Zortrax M200+
+* Material: Z-PLA Pro
+* Nozzle diameter: 0.4mm
+* High quality
+* Layer height: 0.09mm
+* Infill: 20%
+* No support
+
 ![gpio](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/gpio.jpg?raw=true)
 
 ![hdmi](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/hdmi.jpg?raw=true)
