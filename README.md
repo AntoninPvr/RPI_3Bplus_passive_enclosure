@@ -2,6 +2,13 @@
 
 This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But GPIO are easily accessibles.
 
+
+<p float="left">
+  <img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/render_sd_hdmi.JPG?raw=true" />
+  <img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/render_hdmi_usb.JPG?raw=true" /> 
+</p>
+
+
 ## Compatibility
 This enclosure support following boards:
 
