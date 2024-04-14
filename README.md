@@ -14,6 +14,8 @@ This enclosure support following boards:
 ## Thermal management
 This enclosure is designed to be used with passive cooling solution. 35x35x12mm heatsink is recommended. Can be easily modified to fit 40x40x12mm heatsink.
 
+A 1mm copper plate between the CPU and the heatsink is needed to allow space for surrounding components.
+
 No need for fan event with intense CPU usage.
 
 ## Material and print settings
@@ -21,5 +23,22 @@ Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.
 
 4x M3x24mm flat-head screws and 4x M3 nuts are needed to assemble the case.
 
+## Run button
+1mm hole above jack connector is designed to fit a 6x6mm push button. This button can be used to wake the Raspberry PI.
+
 ## Photos
-![gpio](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/image.jpg)
+![gpio](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/gpio.jpg?raw=true)
+
+![hdmi](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/hdmi.jpg?raw=true)
+
+Run button hole above jack connector
+
+![isometric](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/isometric.jpg?raw=true)
+
+![upper_inside](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/upper_inside.jpg?raw=true)
+
+![rpi3b](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/rpi3b.jpg?raw=true)
+
+![rpi3b_heatsink](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/rpi3b_heatsink.jpg?raw=true)
+
+Kapton tape is used to isolate heatsink from the board.
