@@ -12,7 +12,7 @@ This enclosure support following boards:
 * Raspberry PI 3B+
 
 ## Thermal management
-This enclosure is designed to be used with passive cooling solution. 35x35x12mm heatsink is recommended. Can be easily modified to fit 40x40x12mm heatsink.
+This enclosure is designed to be used with passive cooling solution. 35x35x12mm heatsink is recommended.
 
 A 1mm copper plate between the CPU and the heatsink is needed to allow space for surrounding components.
 
