@@ -11,6 +11,16 @@ This enclosure support following boards:
 * Raspberry PI 3B
 * Raspberry PI 3B+
 
+## Files
+
+Two versions of the upper part are available. One with GPIO access and one without. Ideal for a clean look or server applications like VPN, DNS...
+
+* `RPI_3bplus_enclosure_lower_1.2.STL` Lower part of the enclosure common to all
+* `RPI_3bplus_enclosure_upper_1.2.STL` Orginal upper part of the enclosure with GPIO access
+* `RPI_3bplus_enclosure_upper_1.2_no_gpio.STL` Upper part of the enclosure without GPIO access
+* `gpio_cover.STL` Cover for GPIO. Best of both worlds, clean look and easy access to GPIO
+
+
 ## Thermal management
 This enclosure is designed to be used with passive cooling solution. 35x35x12mm heatsink is recommended.
 
