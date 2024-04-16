@@ -81,3 +81,25 @@ Little issue with the GPIO border, was to tight. fixed.
 ![rpi3b_heatsink](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/rpi3b_heatsink.jpg?raw=true)
 
 Kapton tape is used to isolate heatsink from the board.
+
+## Related projects
+
+* #### Raspberry PI 4B Case version is available here:
+    > https://github.com/AntoninPvr/RPI4B_Case
+
+    <p align="left">
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_sd_hdmi.jpg?raw=true" width="30%">
+    &nbsp;
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI4B_Case/blob/main/img/render_hdmi_usb.jpg?raw=true" width="30%">
+    </p>
+
+---
+
+* #### Raspberry PI 5 Case version is available here:
+    > https://github.com/AntoninPvr/RPI5_Case
+
+    <p align="left">
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI5_Case/blob/main/img/render_sd_hdmi.jpg?raw=true" width="30%">
+    &nbsp;
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/RPI5_Case/blob/main/img/render_hdmi_usb.jpg?raw=true" width="30%">
+    </p>
