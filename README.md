@@ -1,10 +1,19 @@
-# Enclosure for Raspberry PI
+<h1 align="center">
+    <img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/logo.png?raw=true" alt="RPI Enclosure Logo" width="200"></a>
+    <br>
+    Enclosure for Raspberry PI
+</h1>
+
+---
+![Static Badge](https://img.shields.io/badge/status-active-green)
+![GitHub Release](https://img.shields.io/github/v/release/AntoninPvr/RPI_3Bplus_passive_enclosure)
+![GitHub License](https://img.shields.io/github/license/AntoninPvr/RPI_3Bplus_passive_enclosure)
 
 This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But GPIO are easily accessibles.
 
 <p float="left">
-  <img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/render_sd_hdmi.jpg?raw=true"  width="300"/>
-  <img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/render_hdmi_usb.jpg?raw=true" width="300" /> 
+  <img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/render_sd_hdmi.jpg?raw=true"  width="300"/>
+  <img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/render_hdmi_usb.jpg?raw=true" width="300" /> 
 </p>
 
 
@@ -55,20 +64,20 @@ Printing settings:
 * Infill: 20%
 * No support
 
-![gpio](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/gpio.jpg?raw=true)
+![gpio](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/gpio.jpg?raw=true)
 
-![hdmi](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/hdmi.jpg?raw=true)
+![hdmi](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/hdmi.jpg?raw=true)
 
 Run button hole above jack connector
 
-![isometric](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/isometric.jpg?raw=true)
+![isometric](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/isometric.jpg?raw=true)
 
-![upper_inside](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/upper_inside.jpg?raw=true)
+![upper_inside](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/upper_inside.jpg?raw=true)
 
 Little issue with the GPIO border, was to tight. fixed.
 
-![rpi3b](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/rpi3b.jpg?raw=true)
+![rpi3b](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/rpi3b.jpg?raw=true)
 
-![rpi3b_heatsink](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/images/rpi3b_heatsink.jpg?raw=true)
+![rpi3b_heatsink](https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/rpi3b_heatsink.jpg?raw=true)
 
 Kapton tape is used to isolate heatsink from the board.
