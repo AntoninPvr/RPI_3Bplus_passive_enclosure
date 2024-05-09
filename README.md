@@ -9,6 +9,10 @@
 ![GitHub Release](https://img.shields.io/github/v/release/AntoninPvr/RPI_3Bplus_passive_enclosure)
 ![GitHub License](https://img.shields.io/github/license/AntoninPvr/RPI_3Bplus_passive_enclosure)
 
+<p float="left">
+  <img src="https://github.com/AntoninPvr/RPI_3Bplus_passive_enclosure/blob/main/img/raspberry_pi_logo.png?raw=true"  width="60"/>
+</p>
+
 This enclosure is designed to be sleek and minimalistic. It is designed to be 3D printed. This case does not provide any camera or display port access. But GPIO are easily accessibles.
 
 <p float="left">
