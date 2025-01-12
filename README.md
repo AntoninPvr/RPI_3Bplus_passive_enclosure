@@ -37,19 +37,14 @@ Two versions of the upper part are available. One with GPIO access and one witho
 
 
 ## Thermal management
-This enclosure is designed to be used with passive cooling solution. 35x35x12mm heatsink is recommended.
+This enclosure is designed to be used with passive cooling solution.
 
 A 1mm copper plate between the CPU and the heatsink is needed to allow space for surrounding components.
-
-No need for fan event with intense CPU usage.
 
 ## Material and print settings
 Clearance is 0.2mm for all parts to facilitate assembly. No support is needed.
 
-4x M3x24mm flat-head screws and 4x M3 nuts are needed to assemble the case.
-
-## Run button
-1mm hole above jack connector is designed to fit a 6x6mm push button. This button can be used to wake the Raspberry PI.
+Screws are no longer needed
 
 ## Photos
 
